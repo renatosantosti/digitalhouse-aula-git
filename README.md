@@ -6,7 +6,7 @@ Usando git com a turma da DH em 03/2022.
 
 ## 1 - Criar um repositório e conectar : ok
 
-## 2 - Alterar algum arquivo e enviar para o repositório
+## 2 - Alterar algum arquivo e enviar para o repositório ok
 
 ## 3 - Criar uma nova branch (ramificar o repositório)
 
