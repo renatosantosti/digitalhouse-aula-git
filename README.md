@@ -2,7 +2,7 @@
 
 Usando git com a turma da DH em 03/2022.
 
-# Roteiro dessa aula:
+# Roteiro dessa aula: ( usando MarkDown)
 
 ## 1 - Criar um repositório e conectar : ok
 
