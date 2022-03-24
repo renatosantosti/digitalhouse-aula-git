@@ -1,4 +1,4 @@
-# digitalhouse-aula-git
+# digitalhouse-aula-git :desktop_computer:
 
 Usando git com a turma da DH em 03/2022.
 
