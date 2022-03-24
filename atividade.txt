@@ -1,0 +1,15 @@
+ // Criar projeto ou clonar 
+
+
+ // Conectar ao repositório 
+
+
+ // Baixar os arquivos repositório (pull)
+
+ // Conectar na branch particição (checkout)
+
+
+ // Criar um arquivo.txt com seu nome ex: lucas.txt
+
+
+ // Fazer ccommmit  e push para a branch no repositório remoto
